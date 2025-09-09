@@ -1,45 +1,26 @@
 <ProductDataFeed>
   <Products>
-    <Product>
-      <ProductID>PRD-001</ProductID>
-      <Name>Perfume Elegance Femme</Name>
-      <Brand>ChicBeauty</Brand>
-      <Category>Perfumes</Category>
-      <Price>199.90</Price>
-      <Stock>25</Stock>
-    </Product>
-    <Product>
-      <ProductID>PRD-002</ProductID>
-      <Name>Base Líquida Matte</Name>
-      <Brand>GlowUp</Brand>
-      <Category>Maquiagem</Category>
-      <Price>89.90</Price>
-      <Stock>50</Stock>
-    </Product>
-    <Product>
-      <ProductID>PRD-003</ProductID>
-      <Name>Creme Hidratante Facial</Name>
-      <Brand>SoftSkin</Brand>
-      <Category>Cuidados com a Pele</Category>
-      <Price>49.90</Price>
-      <Stock>40</Stock>
-    </Product>
-    <Product>
-      <ProductID>PRD-004</ProductID>
-      <Name>Batom Líquido Matte</Name>
-      <Brand>GlowUp</Brand>
-      <Category>Maquiagem</Category>
-      <Price>29.90</Price>
-      <Stock>100</Stock>
-    </Product>
-    <Product>
-      <ProductID>PRD-005</ProductID>
-      <Name>Shampoo Nutritivo</Name>
-      <Brand>HairCare</Brand>
-      <Category>Cuidados com o Cabelo</Category>
-      <Price>35.50</Price>
-      <Stock>60</Stock>
-    </Product>
+    <Product><ProductID>1</ProductID><Name>Perfume Elegance Femme</Name><Brand>ChicBeauty</Brand><Category>Perfumes</Category><Price>199.90</Price><Stock>25</Stock></Product>
+    <Product><ProductID>2</ProductID><Name>Base Líquida Matte</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>89.90</Price><Stock>50</Stock></Product>
+    <Product><ProductID>3</ProductID><Name>Creme Hidratante Facial</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>49.90</Price><Stock>40</Stock></Product>
+    <Product><ProductID>4</ProductID><Name>Batom Líquido Matte</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>29.90</Price><Stock>100</Stock></Product>
+    <Product><ProductID>5</ProductID><Name>Shampoo Nutritivo</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>35.50</Price><Stock>60</Stock></Product>
+    <Product><ProductID>6</ProductID><Name>Condicionador Nutritivo</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>32.50</Price><Stock>55</Stock></Product>
+    <Product><ProductID>7</ProductID><Name>Máscara Facial Hidratante</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>59.90</Price><Stock>30</Stock></Product>
+    <Product><ProductID>8</ProductID><Name>Blush Compacto</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>39.90</Price><Stock>70</Stock></Product>
+    <Product><ProductID>9</ProductID><Name>Rímel Volume Max</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>49.90</Price><Stock>80</Stock></Product>
+    <Product><ProductID>10</ProductID><Name>Loção Corporal Hidratante</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>69.90</Price><Stock>35</Stock></Product>
+    <Product><ProductID>11</ProductID><Name>Perfume Sport</Name><Brand>ChicBeauty</Brand><Category>Perfumes</Category><Price>179.90</Price><Stock>20</Stock></Product>
+    <Product><ProductID>12</ProductID><Name>Sabonete Líquido Facial</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>25.90</Price><Stock>45</Stock></Product>
+    <Product><ProductID>13</ProductID><Name>Batom Hidratante</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>34.90</Price><Stock>90</Stock></Product>
+    <Product><ProductID>14</ProductID><Name>Máscara Capilar Reparadora</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>45.50</Price><Stock>40</Stock></Product>
+    <Product><ProductID>15</ProductID><Name>Base Líquida Glow</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>95.90</Price><Stock>55</Stock></Product>
+    <Product><ProductID>16</ProductID><Name>Shampoo Anti-queda</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>39.50</Price><Stock>50</Stock></Product>
+    <Product><ProductID>17</ProductID><Name>Perfume Classic</Name><Brand>ChicBeauty</Brand><Category>Perfumes</Category><Price>149.90</Price><Stock>30</Stock></Product>
+    <Product><ProductID>18</ProductID><Name>Creme Noturno Facial</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>79.90</Price><Stock>25</Stock></Product>
+    <Product><ProductID>19</ProductID><Name>Batom Matte Vermelho</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>29.90</Price><Stock>100</Stock></Product>
+    <Product><ProductID>20</ProductID><Name>Loção Corporal Revitalizante</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>59.90</Price><Stock>40</Stock></Product>
   </Products>
 </ProductDataFeed>
+
 
