@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>PRD-001</id>
+    <name>Perfume Elegance Femme</name>
+    <brand>Maison Luxe</brand>
+    <category>Perfumaria</category>
+    <target>Feminino</target>
+    <price currency="BRL">399.90</price>
+    <availability>in_stock</availability>
+    <url>https://maisonluxe.com.br/produtos/perfume-elegance-femme</url>
+    <description>Fragrância sofisticada com notas florais e amadeiradas. Ideal para ocasiões especiais.</description>
+    <images>
+      <image>https://maisonluxe.com.br/images/perfume-elegance.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-002</id>
+    <name>Batom Matte Vermelho Intenso</name>
+    <brand>BeauteMix</brand>
+    <category>Maquiagem</category>
+    <target>Feminino</target>
+    <price currency="BRL">59.90</price>
+    <availability>in_stock</availability>
+    <url>https://beautemix.com/make/batom-matte-vermelho</url>
+    <description>Cor intensa, longa duração e acabamento matte aveludado.</description>
+    <images>
+      <image>https://beautemix.com/images/batom-vermelho.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-003</id>
+    <name>Hidratante Corporal Flor de Cerejeira</name>
+    <brand>Florale</brand>
+    <category>Cuidados com a pele</category>
+    <target>Feminino</target>
+    <price currency="BRL">79.90</price>
+    <availability>in_stock</availability>
+    <url>https://florale.com.br/skincare/hidratante-flor-cerejeira</url>
+    <description>Hidratação profunda com fragrância suave de flor de cerejeira.</description>
+    <images>
+      <image>https://florale.com.br/images/hidratante-cerejeira.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-004</id>
+    <name>Máscara Facial Detox de Carvão</name>
+    <brand>SkinGlow</brand>
+    <category>Skincare</category>
+    <target>Feminino</target>
+    <price currency="BRL">49.90</price>
+    <availability>in_stock</availability>
+    <url>https://skinglow.com/produtos/mascara-detox-carvao</url>
+    <description>Remove impurezas e deixa a pele renovada e macia.</description>
+    <images>
+      <image>https://skinglow.com/images/mascara-carvao.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-005</id>
+    <name>Shampoo Nutritivo Argan Oil</name>
+    <brand>HairCare Pro</brand>
+    <category>Cabelos</category>
+    <target>Feminino</target>
+    <price currency="BRL">34.90</price>
+    <availability>in_stock</availability>
+    <url>https://haircarepro.com.br/shampoo-argan-oil</url>
+    <description>Nutrição intensa com óleo de argan para cabelos mais fortes e brilhantes.</description>
+    <images>
+      <image>https://haircarepro.com.br/images/shampoo-argan.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-006</id>
+    <name>Condicionador Reparador Queratina</name>
+    <brand>HairCare Pro</brand>
+    <category>Cabelos</category>
+    <target>Feminino</target>
+    <price currency="BRL">36.90</price>
+    <availability>in_stock</availability>
+    <url>https://haircarepro.com.br/condicionador-queratina</url>
+    <description>Fortalece e repara cabelos danificados, deixando-os macios e fáceis de pentear.</description>
+    <images>
+      <image>https://haircarepro.com.br/images/condicionador-queratina.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-007</id>
+    <name>Esmalte Rosa Glam</name>
+    <brand>ColorNails</brand>
+    <category>Unhas</category>
+    <target>Feminino</target>
+    <price currency="BRL">12.90</price>
+    <availability>in_stock</availability>
+    <url>https://colornails.com/esmalte-rosa-glam</url>
+    <description>Cor vibrante, brilho intenso e longa duração.</description>
+    <images>
+      <image>https://colornails.com/images/esmalte-rosa.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-008</id>
+    <name>Base Líquida Alta Cobertura</name>
+    <brand>BeauteMix</brand>
+    <category>Maquiagem</category>
+    <target>Feminino</target>
+    <price currency="BRL">89.90</price>
+    <availability>in_stock</availability>
+    <url>https://beautemix.com/make/base-alta-cobertura</url>
+    <description>Uniformiza a pele com acabamento natural e alta cobertura.</description>
+    <images>
+      <image>https://beautemix.com/images/base-alta.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-009</id>
+    <name>Creme Antissinais Noturno</name>
+    <brand>SkinGlow</brand>
+    <category>Skincare</category>
+    <target>Feminino</target>
+    <price currency="BRL">129.90</price>
+    <availability>in_stock</availability>
+    <url>https://skinglow.com/produtos/creme-antissinais</url>
+    <description>Combate sinais de envelhecimento e promove firmeza durante o sono.</description>
+    <images>
+      <image>https://skinglow.com/images/creme-antissinais.jpg</image>
+    </images>
+  </product>
+
+  <product>
+    <id>PRD-010</id>
+    <name>Kit Pincéis Profissionais de Maquiagem</name>
+    <brand>MakePro</brand>
+    <category>Maquiagem</category>
+    <target>Feminino</target>
+    <price currency="BRL">199.90</price>
+    <availability>in_stock</availability>
+    <url>https://makepro.com.br/kits/pinceis-profissionais</url>
+    <description>Conjunto com 12 pincéis profissionais para maquiagem completa.</description>
+    <images>
+      <image>https://makepro.com.br/images/pinceis.jpg</image>
+    </images>
+  </product>
+</products>
