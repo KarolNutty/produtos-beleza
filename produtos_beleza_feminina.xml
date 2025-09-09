@@ -1,26 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <ProductDataFeed>
   <Products>
-    <Product><ProductID>1</ProductID><Name>Perfume Elegance Femme</Name><Brand>ChicBeauty</Brand><Category>Perfumes</Category><Price>199.90</Price><Stock>25</Stock></Product>
-    <Product><ProductID>2</ProductID><Name>Base Líquida Matte</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>89.90</Price><Stock>50</Stock></Product>
-    <Product><ProductID>3</ProductID><Name>Creme Hidratante Facial</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>49.90</Price><Stock>40</Stock></Product>
-    <Product><ProductID>4</ProductID><Name>Batom Líquido Matte</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>29.90</Price><Stock>100</Stock></Product>
-    <Product><ProductID>5</ProductID><Name>Shampoo Nutritivo</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>35.50</Price><Stock>60</Stock></Product>
-    <Product><ProductID>6</ProductID><Name>Condicionador Nutritivo</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>32.50</Price><Stock>55</Stock></Product>
-    <Product><ProductID>7</ProductID><Name>Máscara Facial Hidratante</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>59.90</Price><Stock>30</Stock></Product>
-    <Product><ProductID>8</ProductID><Name>Blush Compacto</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>39.90</Price><Stock>70</Stock></Product>
-    <Product><ProductID>9</ProductID><Name>Rímel Volume Max</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>49.90</Price><Stock>80</Stock></Product>
-    <Product><ProductID>10</ProductID><Name>Loção Corporal Hidratante</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>69.90</Price><Stock>35</Stock></Product>
-    <Product><ProductID>11</ProductID><Name>Perfume Sport</Name><Brand>ChicBeauty</Brand><Category>Perfumes</Category><Price>179.90</Price><Stock>20</Stock></Product>
-    <Product><ProductID>12</ProductID><Name>Sabonete Líquido Facial</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>25.90</Price><Stock>45</Stock></Product>
-    <Product><ProductID>13</ProductID><Name>Batom Hidratante</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>34.90</Price><Stock>90</Stock></Product>
-    <Product><ProductID>14</ProductID><Name>Máscara Capilar Reparadora</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>45.50</Price><Stock>40</Stock></Product>
-    <Product><ProductID>15</ProductID><Name>Base Líquida Glow</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>95.90</Price><Stock>55</Stock></Product>
-    <Product><ProductID>16</ProductID><Name>Shampoo Anti-queda</Name><Brand>HairCare</Brand><Category>Cuidados com o Cabelo</Category><Price>39.50</Price><Stock>50</Stock></Product>
-    <Product><ProductID>17</ProductID><Name>Perfume Classic</Name><Brand>ChicBeauty</Brand><Category>Perfumes</Category><Price>149.90</Price><Stock>30</Stock></Product>
-    <Product><ProductID>18</ProductID><Name>Creme Noturno Facial</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>79.90</Price><Stock>25</Stock></Product>
-    <Product><ProductID>19</ProductID><Name>Batom Matte Vermelho</Name><Brand>GlowUp</Brand><Category>Maquiagem</Category><Price>29.90</Price><Stock>100</Stock></Product>
-    <Product><ProductID>20</ProductID><Name>Loção Corporal Revitalizante</Name><Brand>SoftSkin</Brand><Category>Cuidados com a Pele</Category><Price>59.90</Price><Stock>40</Stock></Product>
+    <Product>
+      <ProductID>PRD-001</ProductID>
+      <Name>Perfume Elegance Femme</Name>
+      <Brand>Maison Luxe</Brand>
+      <Category>Perfumaria</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">399.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://maisonluxe.com.br/produtos/perfume-elegance-femme</URL>
+      <Description>Fragrância sofisticada com notas florais e amadeiradas. Ideal para ocasiões especiais.</Description>
+      <Images>
+        <Image>https://maisonluxe.com.br/images/perfume-elegance.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-002</ProductID>
+      <Name>Batom Matte Vermelho Intenso</Name>
+      <Brand>BeauteMix</Brand>
+      <Category>Maquiagem</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">59.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://beautemix.com/make/batom-matte-vermelho</URL>
+      <Description>Cor intensa, longa duração e acabamento matte aveludado.</Description>
+      <Images>
+        <Image>https://beautemix.com/images/batom-vermelho.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-003</ProductID>
+      <Name>Hidratante Corporal Flor de Cerejeira</Name>
+      <Brand>Florale</Brand>
+      <Category>Cuidados com a pele</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">79.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://florale.com.br/skincare/hidratante-flor-cerejeira</URL>
+      <Description>Hidratação profunda com fragrância suave de flor de cerejeira.</Description>
+      <Images>
+        <Image>https://florale.com.br/images/hidratante-cerejeira.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-004</ProductID>
+      <Name>Máscara Facial Detox de Carvão</Name>
+      <Brand>SkinGlow</Brand>
+      <Category>Skincare</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">49.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://skinglow.com/produtos/mascara-detox-carvao</URL>
+      <Description>Remove impurezas e deixa a pele renovada e macia.</Description>
+      <Images>
+        <Image>https://skinglow.com/images/mascara-carvao.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-005</ProductID>
+      <Name>Shampoo Nutritivo Argan Oil</Name>
+      <Brand>HairCare Pro</Brand>
+      <Category>Cabelos</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">34.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://haircarepro.com.br/shampoo-argan-oil</URL>
+      <Description>Nutrição intensa com óleo de argan para cabelos mais fortes e brilhantes.</Description>
+      <Images>
+        <Image>https://haircarepro.com.br/images/shampoo-argan.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-006</ProductID>
+      <Name>Condicionador Reparador Queratina</Name>
+      <Brand>HairCare Pro</Brand>
+      <Category>Cabelos</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">36.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://haircarepro.com.br/condicionador-queratina</URL>
+      <Description>Fortalece e repara cabelos danificados, deixando-os macios e fáceis de pentear.</Description>
+      <Images>
+        <Image>https://haircarepro.com.br/images/condicionador-queratina.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-007</ProductID>
+      <Name>Esmalte Rosa Glam</Name>
+      <Brand>ColorNails</Brand>
+      <Category>Unhas</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">12.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://colornails.com/esmalte-rosa-glam</URL>
+      <Description>Cor vibrante, brilho intenso e longa duração.</Description>
+      <Images>
+        <Image>https://colornails.com/images/esmalte-rosa.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-008</ProductID>
+      <Name>Base Líquida Alta Cobertura</Name>
+      <Brand>BeauteMix</Brand>
+      <Category>Maquiagem</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">89.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://beautemix.com/make/base-alta-cobertura</URL>
+      <Description>Uniformiza a pele com acabamento natural e alta cobertura.</Description>
+      <Images>
+        <Image>https://beautemix.com/images/base-alta.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-009</ProductID>
+      <Name>Creme Antissinais Noturno</Name>
+      <Brand>SkinGlow</Brand>
+      <Category>Skincare</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">129.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://skinglow.com/produtos/creme-antissinais</URL>
+      <Description>Combate sinais de envelhecimento e promove firmeza durante o sono.</Description>
+      <Images>
+        <Image>https://skinglow.com/images/creme-antissinais.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-010</ProductID>
+      <Name>Kit Pincéis Profissionais de Maquiagem</Name>
+      <Brand>MakePro</Brand>
+      <Category>Maquiagem</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">199.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://makepro.com.br/kits/pinceis-profissionais</URL>
+      <Description>Conjunto com 12 pincéis profissionais para maquiagem completa.</Description>
+      <Images>
+        <Image>https://makepro.com.br/images/pinceis.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-011</ProductID>
+      <Name>Sérum Vitamina C Antioxidante</Name>
+      <Brand>SkinGlow</Brand>
+      <Category>Skincare</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">89.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://skinglow.com/produtos/serum-vitamina-c</URL>
+      <Description>Sérum concentrado com vitamina C para iluminação e proteção antioxidante.</Description>
+      <Images>
+        <Image>https://skinglow.com/images/serum-vitamina-c.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-012</ProductID>
+      <Name>Óleo Capilar Reparador</Name>
+      <Brand>HairCare Pro</Brand>
+      <Category>Cabelos</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">45.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://haircarepro.com.br/oleo-capilar-reparador</URL>
+      <Description>Óleo nutritivo para cabelos secos e danificados, com proteção térmica.</Description>
+      <Images>
+        <Image>https://haircarepro.com.br/images/oleo-capilar.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-013</ProductID>
+      <Name>Protetor Solar Facial FPS 60</Name>
+      <Brand>SolarCare</Brand>
+      <Category>Skincare</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">69.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://solarcare.com.br/protetor-facial-fps60</URL>
+      <Description>Proteção solar de alta performance com base levemente tonalizante.</Description>
+      <Images>
+        <Image>https://solarcare.com.br/images/protetor-facial.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-014</ProductID>
+      <Name>Paleta de Sombras Nude</Name>
+      <Brand>ColorMix</Brand>
+      <Category>Maquiagem</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">139.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://colormix.com.br/paleta-sombras-nude</URL>
+      <Description>Paleta com 12 sombras em tons nude, acabamento matte e cintilante.</Description>
+      <Images>
+        <Image>https://colormix.com.br/images/paleta-nude.jpg</Image>
+      </Images>
+    </Product>
+    
+    <Product>
+      <ProductID>PRD-015</ProductID>
+      <Name>Removedor de Esmalte Sem Acetona</Name>
+      <Brand>NailCare</Brand>
+      <Category>Unhas</Category>
+      <Target>Feminino</Target>
+      <Price currency="BRL">18.90</Price>
+      <Availability>in_stock</Availability>
+      <URL>https://nailcare.com.br/removedor-sem-acetona</URL>
+      <Description>Fórmula suave sem acetona, enriquecida com vitamina E.</Description>
+      <Images>
+        <Image>https://nailcare.com.br/images/removedor.jpg</Image>
+      </Images>
+    </Product>
   </Products>
 </ProductDataFeed>
-
 
